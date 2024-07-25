@@ -18,5 +18,11 @@
         "content": "I'm on it, adding a 'Submit' button.",
         "timestamp": "25072024183518",
         "message_id": "guest25072024183517"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Submit' button to be positioned within the app interface?\", \"option1\": \"At the bottom of the form\", \"option2\": \"At the top of the form\"}, {\"question 2\": \"Do you have any specific color or design preferences for the 'Submit' button?\", \"option1\": \"Use the app's primary color scheme\", \"option2\": \"Custom color preferences (please specify)\"}], \"input_token_count\": 286, \"output_token_count\": 103, \"time_taken\": \"0:00:03.873041\"}",
+        "timestamp": "25072024183522",
+        "message_id": "guest25072024183517"
     }
 ]
