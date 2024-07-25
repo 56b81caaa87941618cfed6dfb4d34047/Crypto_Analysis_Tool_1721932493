@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the navigation bar positioned on the screen?\", \"option1\": \"At the top of all pages\", \"option2\": \"Fixed to the bottom of all pages, mobile style\"}, {\"question 2\": \"Would you like the navigation bar to have a responsive design for different screen sizes?\", \"option1\": \"Yes, it should adjust to screen size\", \"option2\": \"No, a standard size is fine\"}], \"input_token_count\": 266, \"output_token_count\": 103, \"time_taken\": \"0:00:04.020586\"}",
+        "message_id": "guest25072024183811",
+        "timestamp": "25072024183816",
+        "component_file_name": "simple_footer_component_1721932494",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Definitely, adding a navbar with Home, About and Integrations.",
         "message_id": "guest25072024183811",
