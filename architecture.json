@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "Add a button that says Hi"
+    },
+    {
+        "level": 1,
+        "task_description": "add a navbar with the navigation links Home, About and Integrations"
     }
 ]
