@@ -22,7 +22,7 @@ Vue.component("simple_header_component_1721932494", {
                     </button>
                 </div>
                 <div class="flex-1">
-                    <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                    <button class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded transition duration-300 ease-in-out">
                         Hi
                     </button>
                 </div>
