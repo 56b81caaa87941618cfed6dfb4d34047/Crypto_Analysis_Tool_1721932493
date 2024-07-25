@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, adding a button that says \"Hi\".",
+        "message_id": "guest25072024183633",
+        "timestamp": "25072024183633",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a button that says Hi",
         "message_id": "guest25072024183633",
