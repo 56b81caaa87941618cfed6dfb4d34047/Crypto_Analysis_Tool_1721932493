@@ -42,5 +42,11 @@
         "content": "Okay, adding a button that says \"Hi\".",
         "timestamp": "25072024183633",
         "message_id": "guest25072024183633"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hi' button to be positioned on the app?\", \"option1\": \"In the app's header\", \"option2\": \"At the bottom of the app screen\"}, {\"question 2\": \"What function would you like the 'Hi' button to perform?\", \"option1\": \"Open a greeting message\", \"option2\": \"Redirect to a contact form\"}], \"input_token_count\": 259, \"output_token_count\": 94, \"time_taken\": \"0:00:03.572099\"}",
+        "timestamp": "25072024183637",
+        "message_id": "guest25072024183633"
     }
 ]
