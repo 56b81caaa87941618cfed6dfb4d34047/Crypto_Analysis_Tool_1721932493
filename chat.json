@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Definitely, adding a navbar with Home, About and Integrations.",
+        "message_id": "guest25072024183811",
+        "timestamp": "25072024183812",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a navbar with the navigation links Home, About and Integrations",
         "message_id": "guest25072024183811",
