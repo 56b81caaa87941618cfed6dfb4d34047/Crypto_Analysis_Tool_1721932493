@@ -30,5 +30,11 @@
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Correct 'Submiot' to 'Submit' in the button text\", \"checked\": true}, {\"feature\": \"Add tooltip on hover to provide more information about what happens when the Submit button is clicked\", \"checked\": false}, {\"feature\": \"Implement form validation to ensure data integrity before submission\", \"checked\": true}, {\"feature\": \"Enable disable Submit button until all mandatory fields are filled\", \"checked\": true}, {\"feature\": \"Provide visual feedback (e.g., spinner) when the Submit button is clicked to indicate processing\", \"checked\": false}, {\"feature\": \"Display a success or error message upon form submission completion\", \"checked\": true}], \"input_token_count\": 240, \"output_token_count\": 151, \"time_taken\": \"0:00:05.651297\"}",
         "timestamp": "25072024183524",
         "message_id": "guest25072024183517"
+    },
+    {
+        "role": "user",
+        "content": "Add a button that says Hi",
+        "timestamp": "25072024183633",
+        "message_id": "guest25072024183633"
     }
 ]
